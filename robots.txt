@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helena8383.github.io/susijaro/sitemap.xml
